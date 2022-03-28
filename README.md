@@ -22,6 +22,12 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RonyHernandez2000&show_icons=true"/>
+## &#x1f4c8; GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyHernandez2000&layout=compact"/>
+<a href="https://github.com/RonyHernandez2000/RonyHernandez2000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyHernandez2000&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/RonyHernandez2000/RonyHernandez2000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonyHernandez2000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rony's GitHub Stats" />
+</a>
+
