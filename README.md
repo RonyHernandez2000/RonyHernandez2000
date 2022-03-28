@@ -1,12 +1,15 @@
+##
 <h1 align="center">My name is Rony Welcome 👋</h1>
-- 🔭 I’m currently working on Making this ReadMe look Great!
-- 🌱 I’m currently learning Full Stack Developing
-- 👯 I’m looking to collaborate on any project I can help on
-- 🤔 I’m looking for help with developing my skills to be a Senior Developer one day
-- 💬 Ask me about Anything !
-- 📫 How to reach me: [Linkedin Page](https://www.linkedin.com/in/rony-hernandez-967271139/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Favorite Soccer Team is Arsenal
+
+
+* I’m currently working on Making this ReadMe look Great!
+*🌱 I’m currently learning Full Stack Developing
+* 👯 I’m looking to collaborate on any project I can help on
+* 🤔 I’m looking for help with developing my skills to be a Senior Developer one day
+*💬 Ask me about Anything !
+* 📫 How to reach me: [Linkedin Page](https://www.linkedin.com/in/rony-hernandez-967271139/)
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: My Favorite Soccer Team is Arsenal
 
 ## Languages and Tools
 
@@ -29,4 +32,3 @@
 <a href="https://github.com/RonyHernandez2000/RonyHernandez2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonyHernandez2000&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rony's GitHub Stats" />
 </a>
-
