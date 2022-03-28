@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything !
 - 📫 How to reach me: [Linkedin Page](https://www.linkedin.com/in/rony-hernandez-967271139/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Favorite Team for soccer is Arsenal
+- ⚡ Fun fact: My Favorite Soccer Team is Arsenal
 
 ## Languages and Tools
 
